@@ -32,9 +32,7 @@ Three main views:
 View and interact with the full dashboards on Tableau Public:
 
 - [Finance Navigator Pro | Summary](https://public.tableau.com/views/TableauPartofProjectRAJ/Summary?:language=en-US&:display_count=n&:origin=viz_share_link)
-- Overview and Details views: Add links here if separate, or note they are in the same workbook (use the tabs)
 
-> **Tip**: Click the views above → use filters (Purpose, Grade, Verification, etc.) for deeper exploration.
 
 ## Files in this Repository
 - `Finance_Navigator_Pro.twbx` → Packaged Tableau workbook (download and open in Tableau Desktop or Public)
