@@ -20,13 +20,13 @@ Three main views:
 ## Screenshots
 
 ### Summary Dashboard
-![Summary Dashboard]([summary_dashboard.png](https://github.com/rajpatel2309/Tableau-Dashboards/blob/main/Details.png)
+![Summary Dashboard]([summary_dashboard.png](https://github.com/rajpatel2309/Tableau-Dashboards/blob/main/Summary.png)
 
 ### Overview Dashboard
-![Overview Dashboard](overview_dashboard.png)
+![Overview Dashboard](https://github.com/rajpatel2309/Tableau-Dashboards/blob/main/Overview.png)
 
 ### Details View
-![Details Table](details_table.png)
+![Details Table](https://github.com/rajpatel2309/Tableau-Dashboards/blob/main/Details.png)
 
 ## Live Interactive Version
 View and interact with the full dashboards on Tableau Public:
