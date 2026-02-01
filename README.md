@@ -20,7 +20,7 @@ Three main views:
 ## Screenshots
 
 ### Summary Dashboard
-![Summary Dashboard]([summary_dashboard.png](https://github.com/rajpatel2309/Tableau-Dashboards/blob/main/Summary.png)
+![Summary Dashboard]([summary_dashboard.png](https://github.com/rajpatel2309/Tableau-Dashboards/blob/main/Summary%20.png)
 
 ### Overview Dashboard
 ![Overview Dashboard](https://github.com/rajpatel2309/Tableau-Dashboards/blob/main/Overview.png)
